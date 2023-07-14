@@ -1,8 +1,9 @@
 ### 🦊 Hey there, I am Amanda! 
+
 A comic artist and aspiring front-end developer.
 <br><br>
-I am actively pursuing programming studies with a specialized focus on <b>Angular, React, JavaScript, HTML, and CSS</b> to expand my competencies and pursue a career in this dynamic and innovative field. Over the past few years, I have excelled as a freelance illustrator, relying on my exceptional organizational skills, punctuality, and self-motivation to consistently deliver top-quality work. 
-<br><br>
+I am actively pursuing programming studies with a specialized focus on <b>Angular, React, JavaScript, HTML, and CSS</b> to expand my competencies and develop a career in this dynamic and innovative field. Over the past few years, I have excelled as a freelance illustrator, relying on my exceptional organizational skills, punctuality, and self-motivation to consistently deliver top-quality work. 
+<br>
 <br>
 Currently, I work on my personal comic website, not only storyboarding weekly comics, but also coding the website from scratch! 
 
@@ -10,7 +11,8 @@ Currently, I work on my personal comic website, not only storyboarding weekly co
 <br><br>
 <a href="https://explodingcomics.com" target="_blank"><img height="150" src="https://explodingcomics.com/assets/images/logo.png"></a>
 
-<br><br>
+<br>
+
 ### 👾 GitHub stats
 
 
